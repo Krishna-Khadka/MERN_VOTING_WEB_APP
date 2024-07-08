@@ -1,0 +1,16 @@
+{
+    "name": "Balen Shah",
+    "Party": "Independent",
+    "age": 35,
+    "votes": [
+        {
+            "user": "753958387492394",
+            "voteAt": "2024-06-14T10:12:20"
+        },
+        {
+            "user": "15348387492394",
+            "voteAt": "2024-06-14T12:12:20"
+        }
+    ],
+    "voteCount": 3
+}
